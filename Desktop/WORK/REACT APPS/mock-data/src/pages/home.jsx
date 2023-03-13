@@ -1,7 +1,6 @@
 import React from "react";
 import image from "../assets/json.webp";
 import avatar from "../assets/avatar.jpg";
-import Form from "../components/form";
 
 export default function Home({start}) {
   return (
